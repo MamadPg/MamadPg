@@ -8,8 +8,8 @@
     Hi, I'm <strong>Mohammad Kordi</strong> <br>
     💻 I'm interested in <strong>Python</strong> and <strong>katlin</strong> <br>
     🌱 I'm currently learning <strong>Lua</strong>PHP<br>
-    🤖 I'm looking to collaborate on <strong>DiscordBots</strong><strong> FiveM Resources</strong><br>
-    📫 How to reach me: <strong><a href="https://telegram.me/MrCli">Telegram Me</a></strong>
+    🤖 I'm looking to collaborate on <strong>DiscordBots</strong> &<strong> FiveM Resources</strong><br>
+    📫 How to reach me: <strong><a href="https://telegram.me/MamadPg">Telegram Me</a></strong>
 </p>
 
 ---
@@ -34,41 +34,41 @@
 
 ### 📂 My Projects
 
-- [**TelePremium-Self**](https://github.com/ebrahimhaghighat77/TelePremium-Self): New Telegram Self Bot for managing your account.
-- [**Self-Bot**](https://github.com/ebrahimhaghighat77/Self-Bot): Telegram Self Bot for managing your account. Edited and upgraded from original source by Beyond Team.
+- [**Jasaz-Bot**](https://github.com/MamadPg/JasazBot): A Bot With Funny & Moderation Futures
+- [**kir**](): Coming Zood
 
 ---
 
 ### 🔥 Contribution Streak
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimhaghighat77&theme=dark" alt="Contribution Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MamadPg&theme=dark" alt="Contribution Streak"/>
 </p>
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimhaghighat77&layout=compact&theme=dark" alt="Most Used Languages"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=ebrahimhaghighat77&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamadPg&layout=compact&theme=dark" alt="Most Used Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MamadPg&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 ---
 
 ### ⚙️ Fun Facts and Stats
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ebrahimhaghighat77&style=flat-square&color=blue" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/ebrahimhaghighat77?label=Followers&style=social" alt="GitHub Followers"/>
-    <img src="https://img.shields.io/github/stars/ebrahimhaghighat77?label=Stars&style=social" alt="GitHub Stars"/>
+    <img src="https://komarev.com/ghpvc/?username=MamadPg&style=flat-square&color=blue" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/MamadPg?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/stars/MamadPg?label=Stars&style=social" alt="GitHub Stars"/>
 </p>
 
 ---
 
 ### ✨ Featured Projects
 <p align="center">
-    <a href="https://github.com/ebrahimhaghighat77/TelePremium-Self">
+    <a href="https://github.com/MamadPg/TelePremium-Self">
         <img src="https://img.shields.io/badge/TelePremium%20Self%20Bot-blueviolet?style=for-the-badge&logo=telegram&logoColor=white" alt="TelePremium Self"/>
     </a>
-    <a href="https://github.com/ebrahimhaghighat77/Self-Bot">
+    <a href="https://github.com/MamadPg/Self-Bot">
         <img src="https://img.shields.io/badge/Self%20Bot-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Self Bot"/>
     </a>
 </p>
@@ -92,7 +92,7 @@
     <a href="https://telegram.me/MrCli" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="https://github.com/ebrahimhaghighat77" target="_blank">
+    <a href="https://github.com/MamadPg" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://twitter.com/EbiHaghighat998" target="_blank">
