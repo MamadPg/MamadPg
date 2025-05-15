@@ -8,7 +8,7 @@
     Hi, I'm <strong>Mohammad Kordi</strong> <br>
     💻 I'm interested in <strong>Python</strong> and <strong>katlin</strong> <br>
     🌱 I'm currently learning <strong>Lua</strong>PHP<br>
-    🤖 I'm looking to collaborate on <strong>DiscordBots</strong>FiveM Resources<br>
+    🤖 I'm looking to collaborate on <strong>DiscordBots</strong><strong> FiveM Resources</strong><br>
     📫 How to reach me: <strong><a href="https://telegram.me/MrCli">Telegram Me</a></strong>
 </p>
 
