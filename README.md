@@ -65,11 +65,8 @@
 
 ### ✨ Featured Projects
 <p align="center">
-    <a href="https://github.com/MamadPg/TelePremium-Self">
+    <a href="https://github.com/MamadPg/JasazBot">
         <img src="https://img.shields.io/badge/TelePremium%20Self%20Bot-blueviolet?style=for-the-badge&logo=telegram&logoColor=white" alt="TelePremium Self"/>
-    </a>
-    <a href="https://github.com/MamadPg/Self-Bot">
-        <img src="https://img.shields.io/badge/Self%20Bot-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Self Bot"/>
     </a>
 </p>
 
@@ -80,7 +77,7 @@
     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
 <p align="center">
-    I started coding at a young age and have been passionate about technology ever since! From scripting in Lua to exploring the depths of C#, my journey has been full of learning and growth. I'm always eager to work on innovative projects, especially in the world of <strong>Telegram Bots</strong>! 
+    I started coding at a young age and have been passionate about technology ever since! From scripting in C++ to exploring the depths of Assembely, my journey has been full of learning and growth. I'm always eager to work on innovative projects, especially in the world of <strong>Discord Bots</strong>! 
     <br><em>"The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt</em>
 </p>
 
@@ -89,32 +86,21 @@
 ### 📫 Connect with Me
 
 <p align="center">
-    <a href="https://telegram.me/MrCli" target="_blank">
+    <a href="https://telegram.me/MamadPg" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
     <a href="https://github.com/MamadPg" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://twitter.com/EbiHaghighat998" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://instagram.com/ebi_haghighat77" target="_blank">
+    <a href="https://instagram.com/mamadpg_" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="mailto:info@telepremium.ir" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://discord.gg/m5WnYTEQMd" target="_blank">
+    <a href="https://discord.gg/mXbYk8P4hd" target="_blank">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
-    <a href="https://twitch.tv/ebihaghighat" target="_blank">
+    <a href="https://twitch.tv/MamadPg" target="_blank">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
     </a>
 </p>
 
 ---
-
-
-<img src="https://discord.c99.nl/widget/theme-1/503346752766738442.png" alt="Ebi Haghighat">
-
-
